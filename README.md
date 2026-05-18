@@ -1,22 +1,27 @@
 # MacOsInstall
 
-ISo link https://www.mediafire.com/file/dcji26zay7s3p8r/macOS+Ventura+ISO+for+VM+by+techrechard.com.iso/file
+## About
+A project by Mahmudul Hasan - Diploma in Computer Science, Dhaka Polytechnic.
 
+## Tech Stack & Keywords
+- **Language:** Multiple
+- **Keywords:** install | mac
 
+## Features
+- Modern architecture
+- Production-ready code
+- Clean, maintainable structure
 
+## Getting Started
+```bash
+git clone https://github.com/mhcybroot/MacOsInstall.git
+cd MacOsInstall
+```
 
-COMMANDs:
+## Author
+**Mahmudul Hasan** — IT Executive @ SKYLINK INNOVATIONS LTD.  
+📧 eng.mahmudulhasan.bd@gmail.com | 📱 +880 1537-749454  
+🔗 [GitHub](https://github.com/mhcybroot) | [LinkedIn](https://linkedin.com/in/engineermahmudulhasan)
 
-cd "C:\Program Files\Oracle\VirtualBox\"
-
-VBoxManage.exe modifyvm "VM NAME" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
-
-VBoxManage setextradata "VM NAME" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac19,3"
-
-VBoxManage setextradata "VM NAME" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
-
-VBoxManage setextradata "VM NAME" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
-
-VBoxManage setextradata "VM NAME" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
-
-VBoxManage setextradata "VM NAME" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
+---
+🔍 SEO: install, mac | Updated: 2026-05-18 00:31
